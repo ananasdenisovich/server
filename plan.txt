@@ -1,0 +1,5 @@
+command line tool
+Karima Bismeldinova
+My command line tool will execute commands that I add to it.
+The goal is to make my command line with the commands I use often.
+My plan is to set up my project and then define my commands. For that, I will need to learn Command-line argument parsing, working with external libraries and task automation.
